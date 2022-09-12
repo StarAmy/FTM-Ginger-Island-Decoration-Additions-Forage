@@ -1,0 +1,12 @@
+{
+  "Name": "[FTM] Ginger Island Decoration Additions Forage",
+  "Author": "StarAmy",
+  "Version": "1.0.0",
+  "Description": "Adds foraging spawn rules for ginger island locations",
+  "UniqueID": "StarAmy.IslandDecorationAddtiions",
+  "MinimumApiVersion": "3.0",
+  "ContentPackFor": {
+    "UniqueID": "Esca.FarmTypeManager",
+    "MinimumVersion": "1.9.2"
+  }
+}
